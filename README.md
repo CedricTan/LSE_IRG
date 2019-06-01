@@ -3,7 +3,7 @@
 
 If you're reading this, you're probably somehow related to LSE's BIG or IRG groups. If not, resources are still at your disposal to see what we are doing at LSE IRG!
 
-What you will find here are as follows:
+What you will find here, as we continue to document, are as follows:
 * Notes related to our research programmes
 * Curriculum for our various divisions which include
   * Alternatives
@@ -17,4 +17,4 @@ What you will find here are as follows:
 
 If you want to contact us about more details, come through me on Github or email c.tan21@lse.ac.uk
 
-Alternatively, find our group members on LinkedIn.
+Alternatively, find our group members on LinkedIn through LSE IRG under the LSE BIG.
